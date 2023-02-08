@@ -6,7 +6,7 @@
 /* heading styles */
 
 .header {
-    background-image: url(/images/banner/banner3.png);
+    background-image: url(./images/banner/banner3.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 808px;
@@ -106,7 +106,7 @@ ul {
 /* last section */
 
 .last-section {
-    background-image: url(/images/watch.png), url(/images/gradient1.png);
+    background-image: url(./images/watch.png), url(./images/gradient1.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 1140px;
